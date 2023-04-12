@@ -11,8 +11,8 @@ Pagina de blog
 ## Ver ejemplo en vivo
 [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
 
-## Instalación
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
+## link
+https://practica-cafee.netlify.app
 
 ## Contratación
 
